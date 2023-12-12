@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Konstantinos Nikolaidis ( GitHub:**@knikolaidis9**)
+- 👋 Hi, I’m Konstantinos Nikolaidis ( GitHub:**@knikolaidis9**).
 - 👀 I’m interested in Software Development and Data Science.
 - 🌱 I’m currently learning and improving my skills in Python using Machine and Deep Learning libaries.
 - 💞️ I’m looking to collaborate on innovative projects.
